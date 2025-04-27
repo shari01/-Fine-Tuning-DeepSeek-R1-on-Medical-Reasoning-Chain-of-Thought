@@ -1,4 +1,3 @@
-# -Fine-Tuning-DeepSeek-R1-on-Medical-Reasoning-COTR _model
 <h2>🚀 Fine-Tuning DeepSeek-R1 on Medical Reasoning (Chain-of-Thought) Dataset</h2>
 
 <p>This project demonstrates <strong>fine-tuning the DeepSeek-R1-Distill-Llama-8B model</strong> using a 
