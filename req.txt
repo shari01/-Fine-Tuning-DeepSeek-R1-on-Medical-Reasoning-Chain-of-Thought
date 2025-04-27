@@ -1,0 +1,11 @@
+transformers
+datasets
+accelerate
+trl
+unsloth
+bitsandbytes
+peft
+wandb
+huggingface_hub
+tavily-python
+torch
